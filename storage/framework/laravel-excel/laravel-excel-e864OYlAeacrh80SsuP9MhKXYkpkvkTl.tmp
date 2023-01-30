@@ -1,0 +1,5 @@
+Num client;Client;Date;Heure;Code chauffeur;Matricule;Type carte;Num. carte;Nom Carte;Num. ticket;Kilomètres avant;Kilomètres;Type opération;Code produit;Produit;Prix Unitaire;Quantité;Montant;Num. devise;Devise;Solde;Num. station;Lieu;Date facture;Num. facture
+3559;STE SUPER MOUSSE;08/06/2021;20:51:27;;9919 TU 179;1500;31492;STE SUPER MOUSSE;62;439324;439867;Vente sur carte post fact.;1;GASOIL;1.6050;113.40;182;;TND;;5;KHIRIA;;
+3559;STE SUPER MOUSSE;08/06/2021;18:08:09;;2157 TU 216;1500;114499;STE SUPER MOUSSE;43;85025;85184;Vente sur carte post fact.;1;GASOIL;1.6050;47.43;76.1310;;TND;;5;KHIRIA;;
+3559;STE SUPER MOUSSE;08/06/2021;17:56:04;;9915 TU 179;1500;31493;STE SUPER MOUSSE;42;448715;449339;Vente sur carte post fact.;1;GASOIL;1.6050;95.44;153.1810;;TND;;5;KHIRIA;;
+3559;STE SUPER MOUSSE;08/06/2021;17:54:49;;4962  TU 216;1500;115406;STE SUPER MOUSSE;41;77877;78145;Vente sur carte post fact.;1;GASOIL;1.6050;55.45;89;;TND;;5;KHIRIA;;
