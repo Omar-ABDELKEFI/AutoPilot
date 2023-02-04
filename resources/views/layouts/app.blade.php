@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>Super mousse</title>
+        <title>Suazddddddddper mousse</title>
         <link rel="icon" href="{{asset('assets/images/logo/logo2.png')}}" type="image/icon type">
 
         <!-- Fonts -->

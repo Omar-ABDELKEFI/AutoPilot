@@ -3,8 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super mousse</title>
+    <title>fsdfdsfSuper mousszze</title>
+    <link rel="icon" href="{{asset('assets/images/logo/logo2.png')}}" type="image/icon type">
     <link rel="icon" href="{{asset('assets/images/logo/logo2.png')}}" type="image/icon type">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -274,10 +277,10 @@
                 <footer>
                     <div class="footer clearfix mb-0 text-muted">
                         <div class="float-start">
-                            <p>2021 &copy;</p>
+                            <p>2023 &copy;</p>
                         </div>
                         <div class="float-end">
-                            <p>Build by <a href="https://www.linkedin.com/in/alae-fendri/" target="_blank">Alae Fendri</a></p>
+                            <p>Build by <a href="https://www.linkedin.com/in/abdelkefi-omar/" target="_blank">Omar abdelkefi</a></p>
                         </div>
                     </div>
                 </footer>
